@@ -4,6 +4,8 @@
 
 Este aplicativo em C permite cadastrar e exibir os dados de duas cartas do Super Trunfo de cidades, conforme o desafio proposto.
 
+## Disciplina: Introdução à programação de computadores 
+
 ## O que o app faz
 - Solicita ao usuário os dados de duas cidades (estado, código, nome, população, área, PIB e pontos turísticos).
 - Exibe as informações cadastradas de forma organizada na tela.
